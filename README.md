@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Hey!%20I'm%20DeyYed%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Hey!%20I'm%20John Dayrill P Flores%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 
 ## 👨‍💻 About Me
 🎓 I'm a **fresh graduate** with a strong passion for building and learning through code.  
