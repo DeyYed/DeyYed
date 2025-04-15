@@ -42,7 +42,7 @@ Stay tuned — they’ll be shared here soon!
 
 ## 📫 Connect With Me
 
-- 🌐 [Portfolio Website](#) *(Coming soon? Let me know if you want help with one!)*
+- 🌐 *Portfolio coming soon...*
 - 💼 [LinkedIn](https://www.linkedin.com/in/john-dayrill-flores)
 - ✉️ Reach me via GitHub or wherever you like to connect
 
