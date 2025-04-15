@@ -7,13 +7,13 @@
 
 ---
 
-## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![React](https://img.shields.io/badge/-ReactJS-20232A?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38bdf8?style=flat&logo=tailwindcss)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+## 🚀 Currently Learning
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJS-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0f172a?style=flat&logo=tailwindcss&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/-Git-0f172a?style=flat&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
