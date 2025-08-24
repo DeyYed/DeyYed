@@ -41,7 +41,6 @@ Hi 👋 — Thanks for checking out my profile README source.
   <!-- Core -->
   <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFE873" />
   <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
@@ -51,9 +50,7 @@ Hi 👋 — Thanks for checking out my profile README source.
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/VSCode-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=22A6F2" />
   <!-- Learning / Backend -->
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/AI%20/%20LLM-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" />
 </p>
 
 ---
